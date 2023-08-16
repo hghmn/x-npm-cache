@@ -1,0 +1,8 @@
+{
+  "name": "test-npm-cache",
+  "version": "0.0.0",
+  "dependencies": {
+    "deep-extend": "^0.4.1",
+    "minimatch": "^3.0.0"
+  }
+}
